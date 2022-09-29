@@ -1,0 +1,5 @@
+print("\u2602") # UMBRELLA
+print("\u2603") # SNOWMAN
+print("\u2620") # SKULL AND CROSSBONES
+print("\u2622") # RADIOACTIVE SIGN
+print("\u3020") # POSTAL MARK FACE
